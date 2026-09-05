@@ -1,6 +1,0 @@
-v0.5.0
-- Replaced placeholder intro screens with the three supplied images as actual 3x3 puzzles.
-- Added post-intro HACK SUCCESS / CRITICAL DATA UNLOCKED sequence.
-- Added three newly supplied images to the bonus archive, bringing it to 15.
-- Updated browser simulator to match the new flow.
-- Added intro IMG assets to metadata storage.

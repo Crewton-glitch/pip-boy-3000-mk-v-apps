@@ -1,1 +1,93 @@
-
+{
+  "id": "project-recovery",
+  "name": "PROJECT: RECOVERY",
+  "author": "@GameBoy",
+  "version": "0.5.0",
+  "description": "PROJECT: RECOVERY now uses three fixed intro puzzle images, a hack-success unlock sequence, a randomized archive, and a separate personal bonus recovery every third level.",
+  "icon": "assets/icon.png",
+  "previews": [
+    "web/preview.png"
+  ],
+  "tags": "game puzzle recovery bonus archive",
+  "type": "app",
+  "readme": "README.md",
+  "storage": [
+    {
+      "name": "USER/project-recovery.js",
+      "url": "app.min.js"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/INTRO001.IMG",
+      "url": "assets/intro/INTRO001.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/INTRO002.IMG",
+      "url": "assets/intro/INTRO002.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/INTRO003.IMG",
+      "url": "assets/intro/INTRO003.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE001.IMG",
+      "url": "assets/FILE001.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE002.IMG",
+      "url": "assets/FILE002.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE003.IMG",
+      "url": "assets/FILE003.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE004.IMG",
+      "url": "assets/FILE004.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE005.IMG",
+      "url": "assets/FILE005.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE006.IMG",
+      "url": "assets/FILE006.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE007.IMG",
+      "url": "assets/FILE007.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE008.IMG",
+      "url": "assets/FILE008.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE009.IMG",
+      "url": "assets/FILE009.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE010.IMG",
+      "url": "assets/FILE010.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE011.IMG",
+      "url": "assets/FILE011.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE012.IMG",
+      "url": "assets/FILE012.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE013.IMG",
+      "url": "assets/FILE013.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE014.IMG",
+      "url": "assets/FILE014.IMG"
+    },
+    {
+      "name": "USER/PROJECT_RECOVERY/FILE015.IMG",
+      "url": "assets/FILE015.IMG"
+    }
+  ],
+  "storageOptional": []
+}
